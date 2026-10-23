@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="884" height="640" viewBox="0 0 884 640">
+<rect width="884" height="640" fill="#fafaf9"/>
+<text x="70" y="36" font-size="17" fill="#1c1917">Linear circle sieve — full circles, centers on the axis (N=12)</text>
+<circle cx="225.0" cy="300" r="155.0" fill="#d1fae5" fill-opacity="0.55" stroke="#059669" stroke-width="2.5"/>
+<circle cx="535.0" cy="300" r="155.0" fill="#d1fae5" fill-opacity="0.55" stroke="#059669" stroke-width="2.5"/>
+<circle cx="42" cy="150" r="0" fill="none"/>
+<circle cx="163.0" cy="300" r="93.0" fill="#fee2e2" fill-opacity="0.55" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="349.0" cy="300" r="93.0" fill="#fee2e2" fill-opacity="0.55" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="535.0" cy="300" r="93.0" fill="#fee2e2" fill-opacity="0.55" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="721.0" cy="300" r="93.0" fill="#fee2e2" fill-opacity="0.55" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="42" cy="150" r="0" fill="none"/>
+<circle cx="132.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="256.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="380.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="504.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="628.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="752.0" cy="300" r="62.0" fill="#dbeafe" fill-opacity="0.55" stroke="#2563eb" stroke-width="2.5"/>
+<circle cx="42" cy="150" r="0" fill="none"/>
+<circle cx="80" cy="70" r="9" fill="none" stroke="#2563eb" stroke-width="3"/><text x="98" y="75" font-size="14" fill="#44403c">spammed p=2 circles (diameter 2)</text>
+<circle cx="80" cy="98" r="9" fill="none" stroke="#dc2626" stroke-width="3"/><text x="98" y="103" font-size="14" fill="#44403c">spammed p=3 circles (diameter 3)</text>
+<circle cx="80" cy="126" r="9" fill="none" stroke="#059669" stroke-width="3"/><text x="98" y="131" font-size="14" fill="#44403c">spammed p=5 circles (diameter 5)</text>
+<circle cx="80" cy="154" r="9" fill="none" stroke="#a8a29e" stroke-width="1.5"/><text x="98" y="159" font-size="14" fill="#44403c">unit circles</text>
+<circle cx="101.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="163.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="225.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="287.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="349.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="411.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="473.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="535.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="597.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="659.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="721.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<circle cx="783.0" cy="300" r="31.0" fill="white" fill-opacity="0.85" stroke="#a8a29e" stroke-width="1.2"/>
+<line x1="40" y1="300" x2="844" y2="300" stroke="#44403c" stroke-width="2"/>
+<circle cx="70.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="70.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">0</text>
+<circle cx="132.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="132.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">1</text>
+<circle cx="194.0" cy="300" r="6" fill="#111" stroke="white" stroke-width="1"/>
+<text x="194.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">2</text>
+<circle cx="256.0" cy="300" r="6" fill="#111" stroke="white" stroke-width="1"/>
+<text x="256.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">3</text>
+<circle cx="318.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="318.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">4</text>
+<circle cx="380.0" cy="300" r="6" fill="#111" stroke="white" stroke-width="1"/>
+<text x="380.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">5</text>
+<circle cx="442.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="442.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">6</text>
+<circle cx="504.0" cy="300" r="6" fill="#111" stroke="white" stroke-width="1"/>
+<text x="504.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">7</text>
+<circle cx="566.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="566.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">8</text>
+<circle cx="628.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="628.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">9</text>
+<circle cx="690.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="690.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">10</text>
+<circle cx="752.0" cy="300" r="6" fill="#111" stroke="white" stroke-width="1"/>
+<text x="752.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">11</text>
+<circle cx="814.0" cy="300" r="3.5" fill="#d6d3d1" stroke="white" stroke-width="1"/>
+<text x="814.0" y="324" font-size="12" text-anchor="middle" fill="#57534e">12</text>
+<text x="70" y="616" font-size="13" fill="#78716c">black dots = unshared points = primes; a spammed circle is drawn only where no earlier circle boundary lands</text>
+</svg>

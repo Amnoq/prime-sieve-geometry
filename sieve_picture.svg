@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="420" viewBox="0 0 1180 420">
+<rect width="1180" height="420" fill="#fafaf9"/>
+<line x1="40" y1="300" x2="1140" y2="300" stroke="#444" stroke-width="2"/>
+<path d="M 60.0 300 A 29.444444444444443 29.444444444444443 0 0 1 118.88888888888889 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 118.88888888888889 300 A 29.444444444444443 29.444444444444443 0 0 1 177.77777777777777 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 177.77777777777777 300 A 29.444444444444443 29.444444444444443 0 0 1 236.66666666666666 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 236.66666666666666 300 A 29.444444444444443 29.444444444444443 0 0 1 295.55555555555554 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 295.55555555555554 300 A 29.444444444444443 29.444444444444443 0 0 1 354.44444444444446 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 354.44444444444446 300 A 29.444444444444443 29.444444444444443 0 0 1 413.3333333333333 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 413.3333333333333 300 A 29.444444444444443 29.444444444444443 0 0 1 472.2222222222222 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 472.2222222222222 300 A 29.444444444444443 29.444444444444443 0 0 1 531.1111111111111 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 531.1111111111111 300 A 29.444444444444443 29.444444444444443 0 0 1 590.0 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 590.0 300 A 29.444444444444443 29.444444444444443 0 0 1 648.8888888888889 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 648.8888888888889 300 A 29.444444444444443 29.444444444444443 0 0 1 707.7777777777777 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 707.7777777777777 300 A 29.444444444444443 29.444444444444443 0 0 1 766.6666666666666 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 766.6666666666666 300 A 29.444444444444443 29.444444444444443 0 0 1 825.5555555555555 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 825.5555555555555 300 A 29.444444444444443 29.444444444444443 0 0 1 884.4444444444443 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 884.4444444444443 300 A 29.444444444444443 29.444444444444443 0 0 1 943.3333333333333 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 943.3333333333333 300 A 29.444444444444443 29.444444444444443 0 0 1 1002.2222222222222 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 1002.2222222222222 300 A 29.444444444444443 29.444444444444443 0 0 1 1061.111111111111 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 1061.111111111111 300 A 29.444444444444443 29.444444444444443 0 0 1 1120.0 300" fill="none" stroke="#d6d3d1" stroke-width="1"/>
+<path d="M 60.0 300 A 58.888888888888886 58.888888888888886 0 0 1 177.77777777777777 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 177.77777777777777 300 A 58.888888888888886 58.888888888888886 0 0 1 295.55555555555554 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 295.55555555555554 300 A 58.888888888888886 58.888888888888886 0 0 1 413.3333333333333 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 413.3333333333333 300 A 58.888888888888886 58.888888888888886 0 0 1 531.1111111111111 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 531.1111111111111 300 A 58.888888888888914 58.888888888888914 0 0 1 648.8888888888889 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 648.8888888888889 300 A 58.88888888888886 58.88888888888886 0 0 1 766.6666666666666 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 766.6666666666666 300 A 58.88888888888886 58.88888888888886 0 0 1 884.4444444444443 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 884.4444444444443 300 A 58.888888888888914 58.888888888888914 0 0 1 1002.2222222222222 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<path d="M 1002.2222222222222 300 A 58.888888888888914 58.888888888888914 0 0 1 1120.0 300" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.85" transform="translate(0 0)"/>
+<text x="1128" y="304" font-size="12" fill="#2563eb">p=2</text>
+<path d="M 60.0 300 A 88.33333333333333 88.33333333333333 0 0 1 236.66666666666666 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<path d="M 236.66666666666666 300 A 88.33333333333333 88.33333333333333 0 0 1 413.3333333333333 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<path d="M 413.3333333333333 300 A 88.33333333333334 88.33333333333334 0 0 1 590.0 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<path d="M 590.0 300 A 88.33333333333331 88.33333333333331 0 0 1 766.6666666666666 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<path d="M 766.6666666666666 300 A 88.33333333333331 88.33333333333331 0 0 1 943.3333333333333 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<path d="M 943.3333333333333 300 A 88.33333333333337 88.33333333333337 0 0 1 1120.0 300" fill="none" stroke="#dc2626" stroke-width="2" opacity="0.85" transform="translate(0 -22)"/>
+<text x="1128" y="282" font-size="12" fill="#dc2626">p=3</text>
+<path d="M 60.0 300 A 147.22222222222223 147.22222222222223 0 0 1 354.44444444444446 300" fill="none" stroke="#059669" stroke-width="2" opacity="0.85" transform="translate(0 -44)"/>
+<path d="M 354.44444444444446 300 A 147.22222222222223 147.22222222222223 0 0 1 648.8888888888889 300" fill="none" stroke="#059669" stroke-width="2" opacity="0.85" transform="translate(0 -44)"/>
+<path d="M 648.8888888888889 300 A 147.22222222222217 147.22222222222217 0 0 1 943.3333333333333 300" fill="none" stroke="#059669" stroke-width="2" opacity="0.85" transform="translate(0 -44)"/>
+<text x="1128" y="260" font-size="12" fill="#059669">p=5</text>
+<path d="M 60.0 300 A 206.1111111111111 206.1111111111111 0 0 1 472.2222222222222 300" fill="none" stroke="#d97706" stroke-width="2" opacity="0.85" transform="translate(0 -66)"/>
+<path d="M 472.2222222222222 300 A 206.1111111111111 206.1111111111111 0 0 1 884.4444444444443 300" fill="none" stroke="#d97706" stroke-width="2" opacity="0.85" transform="translate(0 -66)"/>
+<text x="1128" y="238" font-size="12" fill="#d97706">p=7</text>
+<path d="M 60.0 300 A 323.88888888888886 323.88888888888886 0 0 1 707.7777777777777 300" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.85" transform="translate(0 -88)"/>
+<text x="1128" y="216" font-size="12" fill="#7c3aed">p=11</text>
+<path d="M 60.0 300 A 382.77777777777777 382.77777777777777 0 0 1 825.5555555555555 300" fill="none" stroke="#db2777" stroke-width="2" opacity="0.85" transform="translate(0 -110)"/>
+<text x="1128" y="194" font-size="12" fill="#db2777">p=13</text>
+<path d="M 60.0 300 A 500.55555555555554 500.55555555555554 0 0 1 1061.111111111111 300" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.85" transform="translate(0 -132)"/>
+<text x="1128" y="172" font-size="12" fill="#0891b2">p=17</text>
+<circle cx="60.0" cy="300" r="3" fill="#a8a29e"/>
+<text x="60.0" y="322" font-size="11" text-anchor="middle" fill="#57534e">0</text>
+<circle cx="118.88888888888889" cy="300" r="3" fill="#a8a29e"/>
+<circle cx="177.77777777777777" cy="300" r="5" fill="#111"/>
+<text x="177.77777777777777" y="322" font-size="11" text-anchor="middle" fill="#57534e">2</text>
+<circle cx="236.66666666666666" cy="300" r="5" fill="#111"/>
+<text x="236.66666666666666" y="322" font-size="11" text-anchor="middle" fill="#57534e">3</text>
+<circle cx="295.55555555555554" cy="300" r="3" fill="#a8a29e"/>
+<text x="295.55555555555554" y="322" font-size="11" text-anchor="middle" fill="#57534e">4</text>
+<circle cx="354.44444444444446" cy="300" r="5" fill="#111"/>
+<text x="354.44444444444446" y="322" font-size="11" text-anchor="middle" fill="#57534e">5</text>
+<circle cx="413.3333333333333" cy="300" r="3" fill="#a8a29e"/>
+<text x="413.3333333333333" y="322" font-size="11" text-anchor="middle" fill="#57534e">6</text>
+<circle cx="472.2222222222222" cy="300" r="5" fill="#111"/>
+<text x="472.2222222222222" y="322" font-size="11" text-anchor="middle" fill="#57534e">7</text>
+<circle cx="531.1111111111111" cy="300" r="3" fill="#a8a29e"/>
+<text x="531.1111111111111" y="322" font-size="11" text-anchor="middle" fill="#57534e">8</text>
+<circle cx="590.0" cy="300" r="3" fill="#a8a29e"/>
+<circle cx="648.8888888888889" cy="300" r="3" fill="#a8a29e"/>
+<text x="648.8888888888889" y="322" font-size="11" text-anchor="middle" fill="#57534e">10</text>
+<circle cx="707.7777777777777" cy="300" r="5" fill="#111"/>
+<text x="707.7777777777777" y="322" font-size="11" text-anchor="middle" fill="#57534e">11</text>
+<circle cx="766.6666666666666" cy="300" r="3" fill="#a8a29e"/>
+<text x="766.6666666666666" y="322" font-size="11" text-anchor="middle" fill="#57534e">12</text>
+<circle cx="825.5555555555555" cy="300" r="5" fill="#111"/>
+<text x="825.5555555555555" y="322" font-size="11" text-anchor="middle" fill="#57534e">13</text>
+<circle cx="884.4444444444443" cy="300" r="3" fill="#a8a29e"/>
+<text x="884.4444444444443" y="322" font-size="11" text-anchor="middle" fill="#57534e">14</text>
+<circle cx="943.3333333333333" cy="300" r="3" fill="#a8a29e"/>
+<circle cx="1002.2222222222222" cy="300" r="3" fill="#a8a29e"/>
+<text x="1002.2222222222222" y="322" font-size="11" text-anchor="middle" fill="#57534e">16</text>
+<circle cx="1061.111111111111" cy="300" r="5" fill="#111"/>
+<text x="1061.111111111111" y="322" font-size="11" text-anchor="middle" fill="#57534e">17</text>
+<circle cx="1120.0" cy="300" r="3" fill="#a8a29e"/>
+<text x="1120.0" y="322" font-size="11" text-anchor="middle" fill="#57534e">18</text>
+<text x="60" y="40" font-size="16" fill="#1c1917">Linear circle sieve to 18: spammed prime circles (arcs), black dots = unshared = primes</text>
+</svg>
