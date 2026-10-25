@@ -54,6 +54,10 @@ Fill `REPORT_TEMPLATE.md` and write it to
 Self-contained: no "as discussed", no chat references — no other
 account shares your context.
 
+Note: `reports/inbox/*.md` is gitignored by design — force-add your
+report so it actually lands on the branch:
+`git add -f reports/inbox/<N>-<acct>-<agent-id>.md`.
+
 ## 6. Done
 
 `<Done criteria from the issue.>`
